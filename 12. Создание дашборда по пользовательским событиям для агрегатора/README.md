@@ -34,3 +34,5 @@
 - Один раз в сутки, в полночь по UTC;
 ### Какие графики должны отображаться и в каком порядке, какие элементы управления должны быть на дашборде (макет дашборда):
 ![Image (4)](https://pictures.s3.yandex.net/resources/Untitled_-_2020-07-06T160925.436_1594041010.png)
+
+**Ссылка на дашборд https://public.tableau.com/app/profile/alex.sid4562/viz/Project_16891605154210/Dashboard1**
