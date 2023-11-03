@@ -38,13 +38,13 @@
 Рекомендации:
 
  - обязательно учитывать популярность платформы в выбранном регионе:
-  - Северная Америка и Европа
-  - PlayStation 4 и Xbox OneЯпония - Nintendo 3DS и PlayStation 4
+   - Северная Америка и Европа
+   - PlayStation 4 и Xbox OneЯпония - Nintendo 3DS и PlayStation 4
 
  - обязательно учитывать популярность жанра:
 
-  - Северная Америка и Европа - Shooter и Action
-  - Япония - Role-Playing и Action
+   - Северная Америка и Европа - Shooter и Action
+   - Япония - Role-Playing и Action
     
 - учитывать влияние оценок критиков:
 
